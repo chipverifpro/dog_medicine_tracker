@@ -72,3 +72,8 @@ Email Module
 	•	SMTP-based
 	•	Pulls today’s schedule and sends reminders
  ```
+<img width="679" height="598" alt="Screenshot 2025-07-15 at 8 11 29 PM" src="https://github.com/user-attachments/assets/983009c4-9115-4ce5-9a30-58e0a8292282" />
+
+<img width="679" height="597" alt="Screenshot 2025-07-15 at 8 11 43 PM" src="https://github.com/user-attachments/assets/9c6694a1-dcf7-41cb-a017-7ed0dda135f9" />
+
+<img width="678" height="599" alt="Screenshot 2025-07-15 at 8 11 56 PM" src="https://github.com/user-attachments/assets/47272595-bcf5-44a2-b273-15fe913a4dad" />
