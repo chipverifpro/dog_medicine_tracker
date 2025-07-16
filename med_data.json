@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Levothyroxine",
+    "dosage": "1 tab",
+    "frequency": "Twice per day",
+    "notes": "20 minutes before food"
+  },
+  {
+    "name": "Phenobarbitol",
+    "dosage": "1 tab",
+    "frequency": "Three times per day",
+    "notes": ""
+  },
+  {
+    "name": "Gabapentin",
+    "dosage": "1 capsule",
+    "frequency": "Twice per day",
+    "notes": ""
+  },
+  {
+    "name": "Pepcid",
+    "dosage": "1 tab",
+    "frequency": "Twice per day",
+    "notes": ""
+  },
+  {
+    "name": "Gaba",
+    "dosage": "1 capsule",
+    "frequency": "three times daily",
+    "notes": "notes"
+  },
+  {
+    "name": "Ice Cream",
+    "dosage": "1 Tub",
+    "frequency": "Every Day",
+    "notes": "Makes a doggy fat",
+    "times_per_day": 4
+  }
+]
