@@ -1,5 +1,7 @@
 ## Dog Medicine Tracker
 
+To run this, go to the command prompt and run "*python3 main_gui.py*"
+
 This is a simple little app that you can put a list of medications into, and then
 mark when one is taken.  It has a nice GUI, stores all it's data between runs,
 and can even send reminder emails.
